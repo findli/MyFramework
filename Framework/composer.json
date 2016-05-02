@@ -1,0 +1,20 @@
+{
+  "name": "findli/myframework",
+  "description": "test framework",
+  "authors": [
+    {
+      "name": "Yan B",
+      "email": "mig291988@gmail.com",
+      "homepage": "yanburtovoy.blogspot.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "\\": ""
+    }
+  }
+}
